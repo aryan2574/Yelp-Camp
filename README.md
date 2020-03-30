@@ -1,4 +1,4 @@
-**NO Copyright for the pictures used in the webpage.All copyright reserved with *Google Images* **
+**NO Copyright for the pictures used in the webpage.All copyright reserved with *Google Images***
 
 # Yelp-Campgrounds
 
@@ -37,4 +37,5 @@
 
 ![screenshot12](doc/Screenshot12.png)
 
+:pushpin: Deleted the new created campground and logged out.
 ![screenshot13](doc/Screenshot13.png)
