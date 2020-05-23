@@ -13,29 +13,56 @@
 
 
 ## Screenshots
+ #### Screenshot 1
+
 ![screenshot1](doc/Screenshot1.png)
+
+#### Screenshot 2
 
 ![screenshot2](doc/Screenshot2.png)
 
+#### Screenshot 3
+
 ![screenshot3](doc/Screenshot3.png)
+
+#### Screenshot 4
 
 ![screenshot4](doc/Screenshot4.png)
 
+#### Screenshot 5
+
 ![screenshot5](doc/Screenshot5.png)
+
+#### Screenshot 6
 
 ![screenshot6](doc/Screenshot6.png)
 
+#### Screenshot 7
+
 ![screenshot7](doc/Screenshot7.png)
+
+#### Screenshot 8
 
 ![screenshot8](doc/Screenshot8.png)
 
+#### Screenshot 9
+
 ![screenshot9](doc/Screenshot9.png)
+
+#### Screenshot 10
 
 ![screenshot10](doc/Screenshot10.png)
 
+#### Screenshot 11
+
 ![screenshot11](doc/Screenshot11.png)
+
+#### Screenshot 12
 
 ![screenshot12](doc/Screenshot12.png)
 
+#### Screenshot 13
+
 :pushpin: Deleted the new created campground and logged out.
+
 ![screenshot13](doc/Screenshot13.png)
